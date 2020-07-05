@@ -10,7 +10,9 @@
   },
   "keywords": [],
   "author": "",
-  "dependencies": {},
+  "dependencies": {
+    "@octokit/rest": "^18.0.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.10.3",
     "@storybook/addon-actions": "^5.3.19",
