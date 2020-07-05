@@ -11,6 +11,7 @@
   "keywords": [],
   "author": "",
   "dependencies": {
+    "storybook-addon-consumed": "file:///Users/Craig/Workspace/storybook-addon-consumed",
     "@octokit/rest": "^18.0.0"
   },
   "devDependencies": {
